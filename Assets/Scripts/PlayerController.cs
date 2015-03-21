@@ -43,5 +43,10 @@ public class PlayerController : MonoBehaviour {
 			Mathf.Clamp(player.position.y, boundary.yMin, boundary.yMax)
 			);
 
+		//when the player connects with the right side of the screen, reset position
+		if (player.position.x.Equals(boundary.xMax)) {
+			player.MovePosition(new Vector2(boundary.xMin, 0f));
+		}
+
 	}
 }
