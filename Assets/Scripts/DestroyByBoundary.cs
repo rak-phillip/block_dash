@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DestroyByContact : MonoBehaviour {
+public class DestroyByBoundary : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -13,13 +13,7 @@ public class DestroyByContact : MonoBehaviour {
 	
 	}
 
-	void OnTriggerEnter2D(Collider2D other)
-	{
-		if (other.tag.Equals ("Boundary")) {
-			return;
-		}
-
+	void OnTriggerExit2D(Collider2D other){
 		Destroy (other.gameObject);
-		Destroy (gameObject);
 	}
 }
