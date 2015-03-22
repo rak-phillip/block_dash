@@ -4,6 +4,7 @@ using System.Collections;
 public class Mover : MonoBehaviour {
 
 	public float speed;
+	public Vector2 direction;
 	private Rigidbody2D movingObject;
 
 	// Use this for initialization
@@ -11,7 +12,7 @@ public class Mover : MonoBehaviour {
 	
 		movingObject = GetComponent<Rigidbody2D> ();
 
-		movingObject.velocity = new Vector2(-10f, 0f);
+		movingObject.velocity = direction;
 
 	}
 	

@@ -4,11 +4,13 @@ using System.Collections;
 public class GameController : MonoBehaviour {
 
 	public GameObject enemy;
+	public GameObject enemyDown;
 	public GameObject powerUp;
 	public Vector3 spawnValues;
 	public int hazardCount;
 	public int powerUpCount;
 	public float spawnTimer;
+	public bool spawnTop;
 	public float waveTimer;
 	public float powerUpTimer;
 	public GUIText scoreText;
@@ -48,7 +50,12 @@ public class GameController : MonoBehaviour {
 		while (true) {
 			for (int x = 0; x < hazardCount; x++) {
 				Vector3 spawnPosition = new Vector3 (spawnValues.x, Random.Range (-spawnValues.y, spawnValues.y), spawnValues.z);
-				//Vector3 spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x), spawnValues.y, spawnValues.z);
+
+				if (spawnTop){
+					spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x), spawnValues.y, spawnValues.z);
+					enemy = enemyDown;
+				}
+
 				Quaternion spawnRotation = Quaternion.identity;
 			
 				Instantiate (enemy, spawnPosition, spawnRotation);
