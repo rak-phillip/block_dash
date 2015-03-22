@@ -25,7 +25,9 @@ public class DestroyByContact : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other)
 	{
-		if (other.tag.Equals ("Boundary") || other.tag.Equals("Enemy")) {
+		if (other.tag.Equals ("Boundary") || 
+		    other.tag.Equals("Enemy") || 
+		    tag.Equals("PowerUp")){
 			return;
 		}
 
