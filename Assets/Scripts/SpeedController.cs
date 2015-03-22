@@ -1,18 +1,18 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GrowController : MonoBehaviour {
+public class SpeedController : MonoBehaviour {
 
 	public PowerUpHandler powerUpHandler;
-	public Vector3 powerUpScale;
+	public int powerUpSpeed;
 	public float powerDownTimer;
-
+	
 	private GameObject player;
 	private PowerUpHandler powerUpObject;
 
 	// Use this for initialization
 	void Start () {
-			
+	
 	}
 	
 	// Update is called once per frame
@@ -22,15 +22,15 @@ public class GrowController : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D other){
 		if (other.tag.Equals("Player")) {
-
+			
 			player = other.gameObject;
-
+			
 			Quaternion playerQuaternion = Quaternion.identity;
-
+			
 			powerUpObject = Instantiate(powerUpHandler, new Vector3(0f, 0f, 0f), playerQuaternion) as PowerUpHandler;
-
-			powerUpObject.StartCoroutine(powerUpObject.objectScale(player, powerUpScale, powerDownTimer));
-
+			
+			powerUpObject.StartCoroutine(powerUpObject.objectSpeed(player, powerUpSpeed, powerDownTimer));
+			
 			Destroy(gameObject);
 		}
 	}
