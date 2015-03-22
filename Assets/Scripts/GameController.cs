@@ -14,7 +14,6 @@ public class GameController : MonoBehaviour {
 	public GUIText scoreText;
 	public GUIText restartText;
 	public GUIText gameOverText;
-	public int score;
 	private bool gameOver = false;
 	private bool restart = false;
 
@@ -24,11 +23,7 @@ public class GameController : MonoBehaviour {
 		restart = false;
 		gameOverText.text = "";
 		restartText.text = "";
-		Debug.Log ("Score Value: " + score);
-
-		if (score <= 0) {
-			score = 0;
-		}
+		Debug.Log ("Score Value: " + GameState.score);
 
 		UpdateScore ();
 
@@ -87,14 +82,14 @@ public class GameController : MonoBehaviour {
 	}
 
 	public void AddScore(int newScore) {
-		score += newScore;
-		Debug.Log ("New Score: " + score);
+		GameState.score += newScore;
+		Debug.Log ("New Score: " + GameState.score);
 		UpdateScore ();
 	}
 
 	void UpdateScore(){
-		scoreText.text = "Score: " + score;
-		Debug.Log ("Updated Score: " + score);
+		scoreText.text = "Score: " + GameState.score;
+		Debug.Log ("Updated Score: " + GameState.score);
 	}
 
 	public void GameOver() {
