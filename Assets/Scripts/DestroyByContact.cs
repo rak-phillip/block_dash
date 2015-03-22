@@ -3,9 +3,19 @@ using System.Collections;
 
 public class DestroyByContact : MonoBehaviour {
 
+	private GameController gameController;
+
 	// Use this for initialization
 	void Start () {
-	
+		Screen.SetResolution (900, 300, false);
+
+		GameObject gameControllerObject = GameObject.FindWithTag ("GameController");
+		
+		if (gameControllerObject != null) {
+			gameController = gameControllerObject.GetComponent<GameController> ();
+		} else {
+			Debug.Log("FAIL: Unable to find 'GameController' script.");
+		}
 	}
 	
 	// Update is called once per frame
@@ -17,6 +27,10 @@ public class DestroyByContact : MonoBehaviour {
 	{
 		if (other.tag.Equals ("Boundary") || other.tag.Equals("Enemy")) {
 			return;
+		}
+
+		if (other.tag.Equals("Player")) {
+			gameController.GameOver();
 		}
 
 		Destroy (other.gameObject);

@@ -1,0 +1,113 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Mobility Radeon HD 5800 Series (ID=0x68a0)
+    Vendor:   ATI
+    VRAM:     1013 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.106 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\System.Core.dll (this message is harmless)
+Updated Score: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:69)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:26)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 69)
+
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\block-dash_Data\Managed\System.dll (this message is harmless)
+New Score: 100
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:63)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 63)
+
+Updated Score: 100
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:69)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:64)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 69)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.946881 ms
+System memory in use before: 11.1 MB.
+System memory in use after: 11.1 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 0.091877 ms (FindLiveObjects: 0.014371 ms CreateObjectMapping: 0.008212 ms MarkObjects: 0.065186 ms  DeleteObjects: 0.003592 ms)
+
+Updated Score: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:69)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:26)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 69)
+
+New Score: 100
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:63)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 63)
+
+Updated Score: 100
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:69)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:64)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 69)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.352625 ms
+System memory in use before: 11.1 MB.
+System memory in use after: 11.1 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 0.127807 ms (FindLiveObjects: 0.017451 ms CreateObjectMapping: 0.011805 ms MarkObjects: 0.092390 ms  DeleteObjects: 0.005132 ms)
+
+Updated Score: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:69)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:26)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 69)
+
+New Score: 100
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:63)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 63)
+
+Updated Score: 100
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:69)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:64)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 69)
+

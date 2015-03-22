@@ -8,13 +8,21 @@ public class Boundary {
 
 public class PlayerController : MonoBehaviour {
 
+	public int scoreValue;
 	public float speed; //public modifier can be accessed directly from unity
 	public Boundary boundary;
 	private Rigidbody2D player; //player object
-	
+	private GameController gameController;
+
 	// Use this for initialization
 	void Start () {
-	
+		GameObject gameControllerObject = GameObject.FindWithTag ("GameController");
+		
+		if (gameControllerObject != null) {
+			gameController = gameControllerObject.GetComponent<GameController> ();
+		} else {
+			Debug.Log("FAIL: Unable to find 'GameController' script.");
+		}
 	}
 	
 	// Update is called once per frame
@@ -46,6 +54,7 @@ public class PlayerController : MonoBehaviour {
 		//when the player connects with the right side of the screen, reset position
 		if (player.position.x.Equals(boundary.xMax)) {
 			player.MovePosition(new Vector2(boundary.xMin, 0f));
+			gameController.AddScore(scoreValue);
 		}
 
 	}

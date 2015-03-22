@@ -8,15 +8,36 @@ public class GameController : MonoBehaviour {
 	public int hazardCount;
 	public float spawnTimer;
 	public float waveTimer;
+	public GUIText scoreText;
+	public GUIText restartText;
+	public GUIText gameOverText;
+	public int score = 0;
+
+	private bool gameOver = false;
+	private bool restart = false;
 
 	// Use this for initialization
 	void Start () {
-		StartCoroutine(spawnWaves());
+		gameOver = false;
+		restart = false;
+		gameOverText.text = "";
+		restartText.text = "";
+		score = 0;
+		UpdateScore ();
+
+		if (Application.loadedLevelName != "test-bed") {
+			StartCoroutine (spawnWaves ());
+		}
 	}
 	
 	// Update is called once per frame
 	void Update () {
-	
+		if (restart) {
+			if (Input.GetKeyDown(KeyCode.R)) {
+				Application.LoadLevel(Application.loadedLevel);
+				Debug.Log(Application.loadedLevelName);
+			}
+		}
 	}
 
 	IEnumerator spawnWaves () {
@@ -32,7 +53,29 @@ public class GameController : MonoBehaviour {
 				yield return new WaitForSeconds (spawnTimer);
 			}
 			yield return new WaitForSeconds (waveTimer);
+
+			if (gameOver) {
+				restartText.text = "Press 'R' to restart";
+				restart = true;
+				break;
+			}
 		}
+	}
+
+	public void AddScore(int newScore) {
+		score += newScore;
+		Debug.Log ("New Score: " + score);
+		UpdateScore ();
+	}
+
+	void UpdateScore(){
+		scoreText.text = "Score: " + score;
+		Debug.Log ("Updated Score: " + score);
+	}
+
+	public void GameOver() {
+		gameOverText.text = "Game Over";
+		gameOver = true;
 	}
 
 }
