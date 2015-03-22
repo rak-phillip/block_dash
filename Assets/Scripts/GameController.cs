@@ -25,9 +25,9 @@ public class GameController : MonoBehaviour {
 		score = 0;
 		UpdateScore ();
 
-		if (Application.loadedLevelName != "test-bed") {
+		//if (Application.loadedLevelName != "test-bed") {
 			StartCoroutine (spawnWaves ());
-		}
+		//}
 	}
 	
 	// Update is called once per frame

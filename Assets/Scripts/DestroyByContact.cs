@@ -27,6 +27,7 @@ public class DestroyByContact : MonoBehaviour {
 	{
 		if (other.tag.Equals ("Boundary") || 
 		    other.tag.Equals("Enemy") || 
+		    other.tag.Equals("PowerUp") ||
 		    tag.Equals("PowerUp")){
 			return;
 		}
