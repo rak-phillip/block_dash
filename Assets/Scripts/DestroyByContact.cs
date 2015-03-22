@@ -29,6 +29,7 @@ public class DestroyByContact : MonoBehaviour {
 		    other.tag.Equals("Enemy") || 
 		    other.tag.Equals("PowerUp") ||
 		    tag.Equals("PowerUp")){
+			Debug.Log("TAG: " + tag);
 			return;
 		}
 
