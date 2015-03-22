@@ -4,15 +4,17 @@ using System.Collections;
 public class GameController : MonoBehaviour {
 
 	public GameObject enemy;
+	public GameObject powerUp;
 	public Vector3 spawnValues;
 	public int hazardCount;
+	public int powerUpCount;
 	public float spawnTimer;
 	public float waveTimer;
+	public float powerUpTimer;
 	public GUIText scoreText;
 	public GUIText restartText;
 	public GUIText gameOverText;
-	public int score = 0;
-
+	public int score;
 	private bool gameOver = false;
 	private bool restart = false;
 
@@ -22,8 +24,15 @@ public class GameController : MonoBehaviour {
 		restart = false;
 		gameOverText.text = "";
 		restartText.text = "";
-		score = 0;
+		Debug.Log ("Score Value: " + score);
+
+		if (score <= 0) {
+			score = 0;
+		}
+
 		UpdateScore ();
+
+		StartCoroutine (spawnPowerUps ());
 
 		//if (Application.loadedLevelName != "test-bed") {
 			StartCoroutine (spawnWaves ());
@@ -35,7 +44,6 @@ public class GameController : MonoBehaviour {
 		if (restart) {
 			if (Input.GetKeyDown(KeyCode.R)) {
 				Application.LoadLevel(Application.loadedLevel);
-				Debug.Log(Application.loadedLevelName);
 			}
 		}
 	}
@@ -52,6 +60,7 @@ public class GameController : MonoBehaviour {
 
 				yield return new WaitForSeconds (spawnTimer);
 			}
+
 			yield return new WaitForSeconds (waveTimer);
 
 			if (gameOver) {
@@ -59,6 +68,21 @@ public class GameController : MonoBehaviour {
 				restart = true;
 				break;
 			}
+		}
+	}
+
+	IEnumerator spawnPowerUps () {
+
+		Debug.Log ("Starting Power Up Spawn");
+
+		for (int x = 0; x < powerUpCount; x++) {
+			Vector3 spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x),
+				                                     Random.Range (-spawnValues.y, spawnValues.y));
+			Quaternion spawnRotation = Quaternion.identity;
+
+			Instantiate (powerUp, spawnPosition, spawnRotation);
+
+			yield return new WaitForSeconds (powerUpTimer);
 		}
 	}
 
