@@ -11,6 +11,7 @@ public class GameController : MonoBehaviour {
 	public int powerUpCount;
 	public float spawnTimer;
 	public bool spawnTop;
+	public bool spawnAlternate;
 	public float waveTimer;
 	public float powerUpTimer;
 	public GUIText scoreText;
@@ -18,6 +19,7 @@ public class GameController : MonoBehaviour {
 	public GUIText gameOverText;
 	private bool gameOver = false;
 	private bool restart = false;
+	private GameObject enemyObject;
 
 	// Use this for initialization
 	void Start () {
@@ -51,14 +53,24 @@ public class GameController : MonoBehaviour {
 			for (int x = 0; x < hazardCount; x++) {
 				Vector3 spawnPosition = new Vector3 (spawnValues.x, Random.Range (-spawnValues.y, spawnValues.y), spawnValues.z);
 
+				if (spawnAlternate){
+					if (spawnTop){
+						spawnTop = false;
+					}else{
+						spawnTop = true;
+					}
+				}
+
 				if (spawnTop){
 					spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x), spawnValues.y, spawnValues.z);
-					enemy = enemyDown;
+					enemyObject = enemyDown;
+				} else {
+					enemyObject = enemy;
 				}
 
 				Quaternion spawnRotation = Quaternion.identity;
 			
-				Instantiate (enemy, spawnPosition, spawnRotation);
+				Instantiate (enemyObject, spawnPosition, spawnRotation);
 
 				yield return new WaitForSeconds (spawnTimer);
 			}

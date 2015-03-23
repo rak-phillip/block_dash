@@ -55,15 +55,7 @@ public class PlayerController : MonoBehaviour {
 		if (player.position.x.Equals(boundary.xMax)) {
 			player.MovePosition(new Vector2(boundary.xMin, 0f));
 			gameController.AddScore(scoreValue);
-			loadStage();
-		}
-
-	}
-
-	void loadStage() {
-
-		if (Application.loadedLevelName.Equals("test-bed")) {
-			Application.LoadLevel("main");
+			GameState.loadStage();
 		}
 
 	}
