@@ -27,5 +27,11 @@ public class GameState : MonoBehaviour {
 			return;
 		}
 
+		if (stageState.Equals(StageState.Stage3)){
+			Application.LoadLevel("stage-4");
+			stageState = StageState.Stage4;
+			return;
+		}
+
 	}
 }

@@ -5,12 +5,14 @@ public class GameController : MonoBehaviour {
 
 	public GameObject enemy;
 	public GameObject enemyDown;
+	public GameObject enemyBottom;
 	public GameObject powerUp;
 	public Vector3 spawnValues;
 	public int hazardCount;
 	public int powerUpCount;
 	public float spawnTimer;
 	public bool spawnTop;
+	public bool spawnBottom;
 	public bool spawnAlternate;
 	public float waveTimer;
 	public float powerUpTimer;
@@ -64,6 +66,9 @@ public class GameController : MonoBehaviour {
 				if (spawnTop){
 					spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x), spawnValues.y, spawnValues.z);
 					enemyObject = enemyDown;
+				} else if (spawnBottom) {
+					spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x), -spawnValues.y, spawnValues.z);
+					enemyObject = enemyBottom;
 				} else {
 					enemyObject = enemy;
 				}
