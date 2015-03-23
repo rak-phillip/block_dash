@@ -51,6 +51,8 @@ public class GameController : MonoBehaviour {
 
 	IEnumerator spawnWaves () {
 
+		yield return new WaitForSeconds (waveTimer);
+
 		while (true) {
 			for (int x = 0; x < hazardCount; x++) {
 				Vector3 spawnPosition = new Vector3 (spawnValues.x, Random.Range (-spawnValues.y, spawnValues.y), spawnValues.z);
