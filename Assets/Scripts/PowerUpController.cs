@@ -4,6 +4,7 @@ using System.Collections;
 public class PowerUpController : MonoBehaviour {
 
 	private GameController gameController;
+	public AudioSource pickupAudio;
 
 	// Use this for initialization
 	void Start () {
@@ -25,6 +26,7 @@ public class PowerUpController : MonoBehaviour {
 		if (other.tag.Equals("Player")) {
 			Destroy(gameObject);
 			gameController.AddScore(300);
+			this.pickupAudio.Play();
 			return;
 		}
 	}
