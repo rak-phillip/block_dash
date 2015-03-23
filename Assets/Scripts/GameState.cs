@@ -13,6 +13,7 @@ public class GameState : MonoBehaviour {
 	};
 
 	public static StageState stageState = StageState.Stage1;
+	private Vector2 spawnValues = new Vector2(18f, 4.7f);
 
 	public static void loadStage(){
 		if (stageState.Equals(StageState.Stage1)){
@@ -32,6 +33,5 @@ public class GameState : MonoBehaviour {
 			stageState = StageState.Stage4;
 			return;
 		}
-
 	}
 }

@@ -7,6 +7,10 @@ public class GameController : MonoBehaviour {
 	public GameObject enemyDown;
 	public GameObject enemyBottom;
 	public GameObject powerUp;
+	public GameObject powerDownSpeed;
+	public GameObject powerUpSpeed;
+	public GameObject powerUpGrow;
+	public GameObject powerUpShrink;
 	public Vector3 spawnValues;
 	public int hazardCount;
 	public int powerUpCount;
@@ -33,6 +37,7 @@ public class GameController : MonoBehaviour {
 
 		UpdateScore ();
 
+		spawnRandomPowerUps ();
 		StartCoroutine (spawnPowerUps ());
 
 		if (Application.loadedLevelName != "test-bed") {
@@ -92,9 +97,11 @@ public class GameController : MonoBehaviour {
 		}
 	}
 
+	/// <summary>
+	/// Spawns power ups.
+	/// </summary>
+	/// <returns>The power ups.</returns>
 	IEnumerator spawnPowerUps () {
-
-		Debug.Log ("Starting Power Up Spawn");
 
 		for (int x = 0; x < powerUpCount; x++) {
 			Vector3 spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x),
@@ -105,6 +112,34 @@ public class GameController : MonoBehaviour {
 
 			yield return new WaitForSeconds (powerUpTimer);
 		}
+	}
+	
+	/// <summary>
+	/// Spawns three random power ups.
+	/// </summary>
+	/// <returns>The random power ups.</returns>
+	private void spawnRandomPowerUps () {
+		
+		for (int x = 0; x < 3; x++) {
+			Vector3 spawnPosition = new Vector3 (Random.Range (-spawnValues.x, spawnValues.x),
+			                                     Random.Range (-spawnValues.y, spawnValues.y));
+			Quaternion spawnRotation = Quaternion.identity;
+			
+			//pick a random number 0-3 and spawn the matching powerup
+			int rand = Random.Range(0, 4);
+
+			Debug.Log("Random Number: " + rand);
+
+			if (rand.Equals (0)){
+				Instantiate (powerUpSpeed, spawnPosition, spawnRotation);
+			}else if (rand.Equals(1)){
+				Instantiate (powerDownSpeed, spawnPosition, spawnRotation);
+			}else if (rand.Equals(2)){
+				Instantiate (powerUpGrow, spawnPosition, spawnRotation);
+			}else{
+				Instantiate (powerUpShrink, spawnPosition, spawnRotation);
+			}
+		}	
 	}
 
 	public void AddScore(int newScore) {
@@ -121,6 +156,14 @@ public class GameController : MonoBehaviour {
 	public void GameOver() {
 		gameOverText.text = "Game Over";
 		gameOver = true;
+	}
+
+	public void startGame() {
+		Application.LoadLevel ("main");
+	}
+
+	public void exitGame() {
+		Application.Quit ();
 	}
 
 }

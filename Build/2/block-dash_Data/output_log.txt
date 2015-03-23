@@ -1,0 +1,3585 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Mobility Radeon HD 5800 Series (ID=0x68a0)
+    Vendor:   ATI
+    VRAM:     1013 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.110 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\phillip\Projects\block_dash\Build\2\block-dash_Data\Managed\System.dll (this message is harmless)
+Score Value: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.056625 ms
+System memory in use before: 11.1 MB.
+System memory in use after: 11.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.200693 ms (FindLiveObjects: 0.022071 ms CreateObjectMapping: 0.017451 ms MarkObjects: 0.148852 ms  DeleteObjects: 0.011292 ms)
+
+Score Value: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+New Score: 300
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:147)
+PowerUpController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpController.cs:27)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 147)
+
+Updated Score: 300
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:148)
+PowerUpController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpController.cs:27)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+New Score: 600
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:147)
+PowerUpController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpController.cs:27)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 147)
+
+Updated Score: 600
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:148)
+PowerUpController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpController.cs:27)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Original Speed: 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<objectSpeed>c__Iterator3:MoveNext() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpHandler.cs:42)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:62)
+SpeedController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\SpeedController.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/PowerUpHandler.cs Line: 42)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+New Score: 700
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:147)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 147)
+
+Updated Score: 700
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:148)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.760173 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.313103 ms (FindLiveObjects: 0.020531 ms CreateObjectMapping: 0.025664 ms MarkObjects: 0.257155 ms  DeleteObjects: 0.008725 ms)
+
+Score Value: 700
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 700
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Starting Timer
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<objectScale>c__Iterator2:MoveNext() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpHandler.cs:23)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:62)
+GrowController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GrowController.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/PowerUpHandler.cs Line: 23)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Starting Timer
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<objectScale>c__Iterator2:MoveNext() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpHandler.cs:23)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:62)
+GrowController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GrowController.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/PowerUpHandler.cs Line: 23)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+New Score: 800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:147)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 147)
+
+Updated Score: 800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:148)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.675994 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.274093 ms (FindLiveObjects: 0.020018 ms CreateObjectMapping: 0.025150 ms MarkObjects: 0.218658 ms  DeleteObjects: 0.008212 ms)
+
+Score Value: 800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Original Speed: 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<objectSpeed>c__Iterator3:MoveNext() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpHandler.cs:42)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:62)
+SpeedController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\SpeedController.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/PowerUpHandler.cs Line: 42)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605161 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.263314 ms (FindLiveObjects: 0.020531 ms CreateObjectMapping: 0.025150 ms MarkObjects: 0.207879 ms  DeleteObjects: 0.008212 ms)
+
+Score Value: 800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Original Speed: 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<objectSpeed>c__Iterator3:MoveNext() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpHandler.cs:42)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:62)
+SpeedController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\SpeedController.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/PowerUpHandler.cs Line: 42)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+New Score: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:147)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 147)
+
+Updated Score: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:148)
+PlayerController:FixedUpdate() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PlayerController.cs:57)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.465548 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.175543 ms (FindLiveObjects: 0.013858 ms CreateObjectMapping: 0.015911 ms MarkObjects: 0.140126 ms  DeleteObjects: 0.005132 ms)
+
+Score Value: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.592329 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.269473 ms (FindLiveObjects: 0.020531 ms CreateObjectMapping: 0.026177 ms MarkObjects: 0.213012 ms  DeleteObjects: 0.008212 ms)
+
+Score Value: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.577444 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.268960 ms (FindLiveObjects: 0.021044 ms CreateObjectMapping: 0.025664 ms MarkObjects: 0.211986 ms  DeleteObjects: 0.008212 ms)
+
+Score Value: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.610294 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.272553 ms (FindLiveObjects: 0.020531 ms CreateObjectMapping: 0.026177 ms MarkObjects: 0.216092 ms  DeleteObjects: 0.008212 ms)
+
+Score Value: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Original Speed: 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<objectSpeed>c__Iterator3:MoveNext() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpHandler.cs:42)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:62)
+SpeedController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\SpeedController.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/PowerUpHandler.cs Line: 42)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.587196 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.268960 ms (FindLiveObjects: 0.021044 ms CreateObjectMapping: 0.026177 ms MarkObjects: 0.212499 ms  DeleteObjects: 0.008212 ms)
+
+Score Value: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+New Score: 1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:147)
+PowerUpController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpController.cs:27)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 147)
+
+Updated Score: 1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:AddScore(Int32) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:148)
+PowerUpController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpController.cs:27)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.396768 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.128320 ms (FindLiveObjects: 0.008725 ms CreateObjectMapping: 0.010778 ms MarkObjects: 0.104709 ms  DeleteObjects: 0.003592 ms)
+
+Score Value: 1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 0
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Original Speed: 5
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+<objectSpeed>c__Iterator3:MoveNext() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\PowerUpHandler.cs:42)
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviour.gen.cs:62)
+SpeedController:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\SpeedController.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/PowerUpHandler.cs Line: 42)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.456309 ms
+System memory in use before: 11.3 MB.
+System memory in use after: 11.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 0.191454 ms (FindLiveObjects: 0.014371 ms CreateObjectMapping: 0.017451 ms MarkObjects: 0.153471 ms  DeleteObjects: 0.005646 ms)
+
+Score Value: 1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:36)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 36)
+
+Updated Score: 1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:UpdateScore() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:153)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:38)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 153)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 3
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+Random Number: 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+GameController:spawnRandomPowerUps() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:131)
+GameController:Start() (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\GameController.cs:40)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/GameController.cs Line: 131)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: PowerUp
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+
+TAG: Enemy
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DestroyByContact:OnTriggerEnter2D(Collider2D) (at C:\Users\phillip\Projects\block_dash\Assets\Scripts\DestroyByContact.cs:32)
+ 
+(Filename: C:/Users/phillip/Projects/block_dash/Assets/Scripts/DestroyByContact.cs Line: 32)
+

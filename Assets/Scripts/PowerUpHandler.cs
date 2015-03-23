@@ -25,9 +25,11 @@ public class PowerUpHandler : MonoBehaviour {
 		yield return new WaitForSeconds (powerDownTimer);
 		
 		Debug.Log ("Timer Finished");
-		
-		playerObject.transform.localScale = new Vector3(1f, 1f, 1f);
-		
+
+		if (playerObject != null) {
+			playerObject.transform.localScale = new Vector3 (1f, 1f, 1f);
+		}
+
 		Destroy (gameObject);
 	}
 	
