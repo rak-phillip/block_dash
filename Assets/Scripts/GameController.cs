@@ -60,6 +60,7 @@ public class GameController : MonoBehaviour {
 			if (Input.GetKeyDown(KeyCode.M)) {
 				GameState.resetScore();
 				GameState.resetLives();
+				GameState.resetState();
 				Application.LoadLevel("main-menu");
 			}
 		}
@@ -180,6 +181,7 @@ public class GameController : MonoBehaviour {
 
 	public void startGame() {
 		Application.LoadLevel ("main");
+		GameState.resetState ();
 	}
 
 	public void exitGame() {

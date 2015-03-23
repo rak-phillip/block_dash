@@ -10,7 +10,8 @@ public class GameState : MonoBehaviour {
 		Stage1,
 		Stage2,
 		Stage3,
-		Stage4
+		Stage4,
+		GameOver
 	};
 
 	public static StageState stageState = StageState.Stage1;
@@ -34,6 +35,12 @@ public class GameState : MonoBehaviour {
 			stageState = StageState.Stage4;
 			return;
 		}
+
+		if (stageState.Equals(StageState.Stage4)){
+			Application.LoadLevel("game-over");
+			stageState = StageState.GameOver;
+			return;
+		}
 	}
 
 	public static void resetLives() {
@@ -42,5 +49,9 @@ public class GameState : MonoBehaviour {
 
 	public static void resetScore() {
 		score = 0;
+	}
+
+	public static void resetState() {
+		stageState = StageState.Stage1;
 	}
 }
