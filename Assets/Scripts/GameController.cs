@@ -24,6 +24,7 @@ public class GameController : MonoBehaviour {
 	public GUIText restartText;
 	public GUIText gameOverText;
 	public GUIText livesText;
+	public GUIText mainMenuText;
 	private bool gameOver = false;
 	private bool restart = false;
 	private GameObject enemyObject;
@@ -34,6 +35,7 @@ public class GameController : MonoBehaviour {
 		restart = false;
 		gameOverText.text = "";
 		restartText.text = "";
+		mainMenuText.text = "";
 		Debug.Log ("Score Value: " + GameState.score);
 
 		UpdateScore ();
@@ -54,6 +56,11 @@ public class GameController : MonoBehaviour {
 				GameState.resetScore();
 				GameState.resetLives();
 				Application.LoadLevel(Application.loadedLevel);
+			}
+			if (Input.GetKeyDown(KeyCode.M)) {
+				GameState.resetScore();
+				GameState.resetLives();
+				Application.LoadLevel("main-menu");
 			}
 		}
 	}
@@ -95,6 +102,7 @@ public class GameController : MonoBehaviour {
 
 			if (gameOver) {
 				restartText.text = "Press 'R' to restart";
+				mainMenuText.text = "Press 'M' for Main Menu";
 				restart = true;
 				break;
 			}
