@@ -34,7 +34,13 @@ public class DestroyByContact : MonoBehaviour {
 		}
 
 		if (other.tag.Equals("Player")) {
-			gameController.GameOver();
+			gameController.RemoveLives();
+			if (GameState.lives <= 0) {
+				gameController.livesText.text = "";
+				gameController.GameOver();
+			} else {
+				Application.LoadLevel(Application.loadedLevel);
+			}
 		}
 
 		Destroy (other.gameObject);

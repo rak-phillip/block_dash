@@ -23,6 +23,7 @@ public class GameController : MonoBehaviour {
 	public GUIText scoreText;
 	public GUIText restartText;
 	public GUIText gameOverText;
+	public GUIText livesText;
 	private bool gameOver = false;
 	private bool restart = false;
 	private GameObject enemyObject;
@@ -36,6 +37,7 @@ public class GameController : MonoBehaviour {
 		Debug.Log ("Score Value: " + GameState.score);
 
 		UpdateScore ();
+		UpdateLives ();
 
 		spawnRandomPowerUps ();
 		StartCoroutine (spawnPowerUps ());
@@ -49,6 +51,8 @@ public class GameController : MonoBehaviour {
 	void Update () {
 		if (restart) {
 			if (Input.GetKeyDown(KeyCode.R)) {
+				GameState.resetScore();
+				GameState.resetLives();
 				Application.LoadLevel(Application.loadedLevel);
 			}
 		}
@@ -150,7 +154,15 @@ public class GameController : MonoBehaviour {
 
 	void UpdateScore(){
 		scoreText.text = "Score: " + GameState.score;
-		Debug.Log ("Updated Score: " + GameState.score);
+	}
+
+	public void RemoveLives() {
+		GameState.lives--;
+		UpdateLives ();
+	}
+
+	void UpdateLives() {
+		livesText.text = "Lives: " + GameState.lives;
 	}
 
 	public void GameOver() {

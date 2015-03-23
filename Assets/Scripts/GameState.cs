@@ -4,6 +4,7 @@ using System.Collections;
 public class GameState : MonoBehaviour {
 
 	public static int score = 0;
+	public static int lives = 3;
 
 	public enum StageState {
 		Stage1,
@@ -33,5 +34,13 @@ public class GameState : MonoBehaviour {
 			stageState = StageState.Stage4;
 			return;
 		}
+	}
+
+	public static void resetLives() {
+		lives = 3;
+	}
+
+	public static void resetScore() {
+		score = 0;
 	}
 }

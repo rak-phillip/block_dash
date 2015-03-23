@@ -30,6 +30,10 @@ public class PlayerController : MonoBehaviour {
 	
 	}
 
+	void OnDestroy () {
+
+	}
+
 	void FixedUpdate () {
 
 		//get the horizontal and vertical input
